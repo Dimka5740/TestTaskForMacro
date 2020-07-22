@@ -13,3 +13,18 @@ D:\Program files\Dropbox\Projects\TestTaskForMacro\obj\Debug\TestTaskForMacro.cs
 D:\Program files\Dropbox\Projects\TestTaskForMacro\obj\Debug\TestTaskForMacro.csproj.CoreCompileInputs.cache
 D:\Program files\Dropbox\Projects\TestTaskForMacro\obj\Debug\TestTaskForMacro.exe
 D:\Program files\Dropbox\Projects\TestTaskForMacro\obj\Debug\TestTaskForMacro.pdb
+D:\TestTaskForMacro\bin\Debug\TestTaskForMacro.exe.config
+D:\TestTaskForMacro\bin\Debug\TestTaskForMacro.exe
+D:\TestTaskForMacro\bin\Debug\TestTaskForMacro.pdb
+D:\TestTaskForMacro\obj\Debug\TestTaskForMacro.csprojAssemblyReference.cache
+D:\TestTaskForMacro\obj\Debug\MainWindow.g.cs
+D:\TestTaskForMacro\obj\Debug\App.g.cs
+D:\TestTaskForMacro\obj\Debug\TestTaskForMacro_MarkupCompile.cache
+D:\TestTaskForMacro\obj\Debug\TestTaskForMacro_MarkupCompile.lref
+D:\TestTaskForMacro\obj\Debug\MainWindow.baml
+D:\TestTaskForMacro\obj\Debug\TestTaskForMacro.g.resources
+D:\TestTaskForMacro\obj\Debug\TestTaskForMacro.Properties.Resources.resources
+D:\TestTaskForMacro\obj\Debug\TestTaskForMacro.csproj.GenerateResource.cache
+D:\TestTaskForMacro\obj\Debug\TestTaskForMacro.csproj.CoreCompileInputs.cache
+D:\TestTaskForMacro\obj\Debug\TestTaskForMacro.exe
+D:\TestTaskForMacro\obj\Debug\TestTaskForMacro.pdb
