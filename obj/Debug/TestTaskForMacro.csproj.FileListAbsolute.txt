@@ -1,0 +1,15 @@
+D:\Program files\Dropbox\Projects\TestTaskForMacro\bin\Debug\TestTaskForMacro.exe.config
+D:\Program files\Dropbox\Projects\TestTaskForMacro\bin\Debug\TestTaskForMacro.exe
+D:\Program files\Dropbox\Projects\TestTaskForMacro\bin\Debug\TestTaskForMacro.pdb
+D:\Program files\Dropbox\Projects\TestTaskForMacro\obj\Debug\TestTaskForMacro.csprojAssemblyReference.cache
+D:\Program files\Dropbox\Projects\TestTaskForMacro\obj\Debug\MainWindow.g.cs
+D:\Program files\Dropbox\Projects\TestTaskForMacro\obj\Debug\App.g.cs
+D:\Program files\Dropbox\Projects\TestTaskForMacro\obj\Debug\TestTaskForMacro_MarkupCompile.cache
+D:\Program files\Dropbox\Projects\TestTaskForMacro\obj\Debug\TestTaskForMacro_MarkupCompile.lref
+D:\Program files\Dropbox\Projects\TestTaskForMacro\obj\Debug\MainWindow.baml
+D:\Program files\Dropbox\Projects\TestTaskForMacro\obj\Debug\TestTaskForMacro.g.resources
+D:\Program files\Dropbox\Projects\TestTaskForMacro\obj\Debug\TestTaskForMacro.Properties.Resources.resources
+D:\Program files\Dropbox\Projects\TestTaskForMacro\obj\Debug\TestTaskForMacro.csproj.GenerateResource.cache
+D:\Program files\Dropbox\Projects\TestTaskForMacro\obj\Debug\TestTaskForMacro.csproj.CoreCompileInputs.cache
+D:\Program files\Dropbox\Projects\TestTaskForMacro\obj\Debug\TestTaskForMacro.exe
+D:\Program files\Dropbox\Projects\TestTaskForMacro\obj\Debug\TestTaskForMacro.pdb
